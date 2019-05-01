@@ -5,7 +5,7 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id ="com.phonegap.app5"
 version = "1.0.0">
 
-<name>ADVERTENCIA</name>
+<name> APP5-ADVERTENCIA</name>
 
 <description>
 Aplicacion que hace que el celular vibre o explote 
